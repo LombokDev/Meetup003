@@ -5,8 +5,8 @@
 | WAKTU       | PEMBICARA          | AGENDA                                         | 
 |-------------|--------------------|------------------------------------------------|
 | 1.00 - 2.00 | -                  | Registrasi                                     |
-| 2.00 - 2.40 | M. Nasrul Alawy    | Game development - "Get Started & How To"      |
-| 2.40 - 3.20 | Subhan Nizar       | GIS with React.js                              |
+| 2.00 - 2.40 | Subhan Nizar       | GIS with React.js                              |
+| 2.40 - 3.20 | M. Nasrul Alawy    | Game development - "Get Started & How To"      |
 | 3.20 - 4.00 |         -          | Ishoma                                         |
 | 4.00 - 5.00 | Syamsul Muttaqin   | Semantic WEB                                   |
 
