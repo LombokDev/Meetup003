@@ -5,6 +5,7 @@ Tech Talk
 |-------|--------------------|--------------------------|
 |       | Syamsul Muttaqin   | Semantic WEB             |
 |       | M Nasrul Alawy     | C# & Unity Game Engine   |
+|       | Subhan Nizar       | GIS with React.js        |
 
 ## Aturan
 
