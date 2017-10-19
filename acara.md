@@ -6,10 +6,10 @@
 |-------------|--------------------|------------------------------------------------|
 | 1.00 - 1.40 | -                  | Registrasi                                     |
 | 1.40 - 2.00 | Sponsor/MC         | Pembukaan                                      |
-| 2.00 - 2.40 | Subhan Nizar       | GIS with React.js                              |
-| 2.40 - 3.20 | M. Nasrul Alawy    | Game development - "Get Started & How To"      |
+| 2.00 - 2.40 | Subhan Nizar       | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                              |
+| 2.40 - 3.20 | M. Nasrul Alawy    | [Game development - "Get Started & How To"](https://github.com/LombokDevMeetup/Talks-Proposal/issues/3)      |
 | 3.20 - 4.00 | -                  | Ishoma                                         |
-| 4.00 - 5.00 | Syamsul Muttaqin   | Semantic WEB                                   |
+| 4.00 - 5.00 | Syamsul Muttaqin   | [Semantic WEB](https://github.com/LombokDevMeetup/Talks-Proposal/issues/5)                                   |
 
 ## Aturan
 - Slot waktu (standar) untuk setiap pemateri adalah 40 menit (termasuk tanya jawab)
