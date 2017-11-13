@@ -1,6 +1,12 @@
 ## Konsep
 [_Tech Talk_](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
 
+## Lokasi Acara
+[Melissa Bakery](https://goo.gl/maps/QME31GfT4Xt)
+
+## Form Registrasi Peserta
+
+
 ## Susunan acara
 | WAKTU         | PEMBICARA          | AGENDA                                         | 
 |---------------|--------------------|------------------------------------------------|
