@@ -24,3 +24,11 @@ Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI 
 ## Aturan
 - Slot waktu (standar) untuk setiap pemateri adalah 40 menit (termasuk tanya jawab)
 - Pemateri bebas menggunakan waktu yang diberikan dan bebas mengatur sesi tanya jawab sesuai keinginan
+
+## Sponsor
+Acara ini disponsori oleh:
+
+![alt text][logo]
+
+[logo]: https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/docs/assets/images/mc02_img_01.png "Biznet Gio Cloud"
+Terimakasih banyak kami ucapkan kepada sponsor yang telah memungkinkan acara ini dilaksanakan.
