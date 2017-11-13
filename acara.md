@@ -4,6 +4,9 @@
 ## Lokasi Acara
 [Melissa Bakery](https://goo.gl/maps/QME31GfT4Xt)
 
+## Tanggal Acara
+17 Desember 2017
+
 ## Form Registrasi Peserta
 Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI PESERTA](https://goo.gl/forms/8MT5MJulKVxJihdB3)
 
