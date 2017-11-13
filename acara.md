@@ -2,14 +2,15 @@
 [_Tech Talk_](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
 
 ## Susunan acara
-| WAKTU       | PEMBICARA          | AGENDA                                         | 
-|-------------|--------------------|------------------------------------------------|
-| 1.00 - 1.40 | -                  | Registrasi                                     |
-| 1.40 - 2.00 | Sponsor/MC         | Pembukaan                                      |
-| 2.00 - 2.40 | Subhan Nizar       | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                              |
-| 2.40 - 3.20 | M. Nasrul Alawy    | [Game development - "Get Started & How To"](https://github.com/LombokDevMeetup/Talks-Proposal/issues/3)      |
-| 3.20 - 4.00 | -                  | Ishoma                                         |
-| 4.00 - 5.00 | Syamsul Muttaqin   | [Taklukan SEO dengan Semantic Web](https://github.com/LombokDevMeetup/Talks-Proposal/issues/5)                                   |
+| WAKTU         | PEMBICARA          | AGENDA                                         | 
+|---------------|--------------------|------------------------------------------------|
+| 09.00 - 10.00 | -                  | Registrasi                                     |
+| 10.00 - 10.40 | Sponsor            | Pembukaan TechTalks                            |
+| 10.40 - 11.20 | Subhan Nizar       | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                              |
+| 11.20 - 12.00 | M. Nasrul Alawy    | [Game development - "Get Started & How To"](https://github.com/LombokDevMeetup/Talks-Proposal/issues/3)     |
+| 12.00 - 13.00  | -                  | Ishoma                                         |
+| 13.00 - 14.00  | Syamsul Muttaqin   | [Taklukan SEO dengan Semantic Web](https://github.com/LombokDevMeetup/Talks-Proposal/issues/5)                                   |
+| 14.00 - 14.40 | Rizky Aristiyansyah       | [WebVR: User happiness](https://github.com/LombokDevMeetup/Talks-Proposal/issues/9)                              |
 
 ## Aturan
 - Slot waktu (standar) untuk setiap pemateri adalah 40 menit (termasuk tanya jawab)
