@@ -28,7 +28,6 @@ Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI 
 ## Sponsor
 Acara ini disponsori oleh:
 
-![alt text][logo]
+<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/docs/assets/images/mc02_img_01.png" width="250px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"> <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/docs/assets/images/bimajaya.png" width="250px" title="Bima Jaya" alt="Bima Jaya">
 
-[logo]: https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/docs/assets/images/mc02_img_01.png "Biznet Gio Cloud"
 Terimakasih banyak kami ucapkan kepada sponsor yang telah memungkinkan acara ini dilaksanakan.
