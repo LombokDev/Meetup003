@@ -13,8 +13,9 @@ Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI 
 ## Susunan acara
 | WAKTU         | PEMBICARA          | AGENDA                                         | 
 |---------------|--------------------|------------------------------------------------|
-| 09.00 - 10.00 | -                  | Registrasi                                     |
-| 10.00 - 10.40 | Sponsor            | Pembukaan TechTalks                            |
+| 08.30 - 09.50 | -                  | Registrasi                                     |
+| 09.50 - 10.00 | Sponsor            | Pengenalan                                     |
+| 10.00 - 10.40 | Sponsor            | Pembukaan materi TechTalks                     |
 | 10.40 - 11.20 | Subhan Nizar       | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                              |
 | 11.20 - 12.00 | M. Nasrul Alawy    | [Game development - "Get Started & How To"](https://github.com/LombokDevMeetup/Talks-Proposal/issues/3)     |
 | 12.00 - 13.00  | -                  | Ishoma                                         |
