@@ -14,10 +14,10 @@ Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI 
 | WAKTU          | PEMBICARA           | AGENDA                                                                                                      |
 |----------------|---------------------|-------------------------------------------------------------------------------------------------------------|
 | 08.30 - 10.00  | -                   | Registrasi                                                                                                  |
-| 10.00 - 10.10  | Sponsor             | Pengenalan                                                                                                  |
-| 10.10 - 10.30  | Sponsor             | Pengenalan                                                                                                  |
-| 10.30 - 11.10  | Subhan Nizar        | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                             | 
-| 11.10 - 11.50  | Rizky Aristiyansyah | [WebVR: User happiness](https://github.com/LombokDevMeetup/Talks-Proposal/issues/9)                         |
+| 10.00 - 10.10  | Wahyu Ramadhan      | Pengenalan                                                                                                  |
+| 10.10 - 10.30  | Dondy Bappedyanto  | [Cloud in Indonesia](https://github.com/LombokDevMeetup/Talks-Proposal/issues/11)                                                                                                  |
+| 10.30 - 11.10  | Rizky Aristiyansyah | [WebVR: User happiness](https://github.com/LombokDevMeetup/Talks-Proposal/issues/9)                         |
+| 11.10 - 11.50  | Subhan Nizar        | [GIS with React.js](https://github.com/LombokDevMeetup/Talks-Proposal/issues/4)                             | 
 | 11.50 - 13.00  | -                   | Ishoma                                                                                                      |
 | 13.00 - 14.00  | Syamsul Muttaqin    | [Taklukan SEO dengan Semantic Web](https://github.com/LombokDevMeetup/Talks-Proposal/issues/5)              |
 | 14.00 - 14.40  | M. Nasrul Alawy     | [Game development - "Get Started & How To"](https://github.com/LombokDevMeetup/Talks-Proposal/issues/3)     |
