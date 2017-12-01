@@ -1,10 +1,17 @@
-# Lombok Dev MeetUp #3
 
+
+<center>
 [<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="500px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud">](https://www.biznetgio.com/)
-
+</center>
+<br/>
+<center>Sponsored By</center>
+<br/>
+<center>
 [<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="250px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud">](https://www.biznetgio.com/) 
 [<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="250px" title="Bima Jaya" alt="Bima Jaya">](https://bimajaya.co.id/)
+</center>
 
+# Lombok Dev MeetUp #3
 ## Latar Belakang
 Berangkat dari antusiasme peserta pada Lombok Dev Meetup pertama dan kedua tersebut kami bermaksud untuk mengadakan Lombok Dev Meet Up ketiga dengan konsep Tech Talk, agar dapat membahas beberapa topik lebih mendalam. Dev Meet Up ini juga sebagai bentuk follow up kami dari Lombok Dev Meetup sebelumnya.
 
