@@ -13,7 +13,7 @@ Detail Progress Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 
 
 ### Perlengkapan
-* Proyektor : (None)
+* Proyektor : Pak Sapto (Fix)
 * Layar Proyektor : Fandi (Fix)
 * Microphone : Venue (Fix)
 * Sound : Venue (Fix)
