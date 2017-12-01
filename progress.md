@@ -21,7 +21,7 @@ Detail Progress Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 * Meja dan Kursi Penonton : Venue (Fix)
 
 
-# Assets
+### Assets
 * XBanner : Zali (Fix)
 * Pamflet : Zali (Fix)
 * Logo MeetUp 3 : Zali (Fix)
