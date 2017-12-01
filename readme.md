@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="377px">
+<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="233px">
 </p>
 
 <br/>
@@ -10,12 +10,13 @@
 
 <p align="center">
     <a href="https://www.biznetgio.com/">
-        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="233px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
+        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="144px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
     </a>
     <a href="https://bimajaya.co.id/">
-        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="233px" title="Bima Jaya" alt="Bima Jaya">
+        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="144px" title="Bima Jaya" alt="Bima Jaya">
     </a>
 </p>
+<br/><br/>
 
 # Lombok Dev MeetUp #3
 ## Latar Belakang
