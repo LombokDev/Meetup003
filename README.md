@@ -1,17 +1,17 @@
 
 
 <p style="text-align:center">
-<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="500px">]
+<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="500px">
 </p>
 
 <br/>
-<center>Sponsored By</center>
+<p style="text-align:center">Sponsored By</center>
 <br/>
+
 <p style="text-align:center">
     <a href="https://www.biznetgio.com/">
         <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="250px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
     </a>
-
     <a href="https://bimajaya.co.id/">
         <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="250px" title="Bima Jaya" alt="Bima Jaya">
     </a>
