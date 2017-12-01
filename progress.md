@@ -1,5 +1,5 @@
 ## Check List
-Detail Umum : https://github.com/orgs/LombokDevMeetup/projects/2
+Detail Progress Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 
 ### Informasi Umum
 
@@ -30,7 +30,7 @@ Detail Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 * 
 
 ### Tech Talk di Jadwalkan
-Detail Progress di :
+Detail Progress Tech Talk di :
 https://github.com/LombokDevMeetup/Talks-Proposal/projects/1
 
 * Tech Talk Cloud In Indonesia
