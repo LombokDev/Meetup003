@@ -14,14 +14,26 @@ Detail Progress Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 
 ### Perlengkapan
 * Proyektor : (None)
+* Layar Proyektor : Fandi (Fix)
 * Microphone : Venue (Fix)
 * Sound : Venue (Fix)
 * Meja dan Kursi Speaker & Moderator : Venue (Fix)
 * Meja dan Kursi Penonton : Venue (Fix)
 
 
+# Assets
+* XBanner : Zali (Fix)
+* Pamflet : Zali (Fix)
+* Logo MeetUp 3 : Zali (Fix)
+
+
+### Dokumentasi
+* Kamera : Zali (Fix)
+* Tripod Kamera : (None)
+
+
 ### Doorprize
-* T-Shirt : Pico
+* T-Shirt : None
 * ....
 
 
@@ -38,6 +50,7 @@ https://github.com/LombokDevMeetup/Talks-Proposal/projects/1
 * Tech Talk Taklukan SEO dengan Semantic Web
 * Tech Talk Game Development "Get Started & How To"
 * Tech Talk GIS with ReactJs
+
 
 ### Pemberitaan
 * Digital Marketing (Fix)
