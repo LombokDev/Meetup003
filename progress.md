@@ -1,4 +1,5 @@
 ## Check List
+Detail Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 
 ### Informasi Umum
 
