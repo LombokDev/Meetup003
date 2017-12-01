@@ -3,7 +3,7 @@ Detail Progress Umum : https://github.com/orgs/LombokDevMeetup/projects/2
 
 ### Informasi Umum
 
-* Tanggal & Waktu : 17 Desember 2018 Jam 08:30 WITA (Fix)
+* Tanggal & Waktu : 17 Desember 2017 Jam 08:30 WITA (Fix)
 * Pemilihan Lokasi : Melisa Bekery, Lantai 2 (Fix)
 
 
