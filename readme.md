@@ -28,7 +28,7 @@ Konsep Lombok Dev Meetup #3 ini adalah Tech Talk. Tech talk adalah presentasi pe
 Berangkat dari antusiasme peserta pada Lombok Dev Meetup pertama dan kedua tersebut kami bermaksud untuk mengadakan Lombok Dev Meet Up ketiga dengan konsep Tech Talk, agar dapat membahas beberapa topik lebih mendalam. Dev Meet Up ini juga sebagai bentuk follow up kami dari Lombok Dev Meetup sebelumnya.
 
 ### Tujuan
-1 Memfasilitasi praktisi IT di pulau Lombok untuk berkumpul dan bertukar informasi.<br/>
+1. Memfasilitasi praktisi IT di pulau Lombok untuk berkumpul dan bertukar informasi.<br/>
 2. Memupuk budaya berbagi antar praktisi IT di Pulau Lombok.<br/>
 3. Meningkatkan SDM praktisi IT di Pulau Lombok.<br/>
 
