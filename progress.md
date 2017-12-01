@@ -1,9 +1,30 @@
 ## Check List
 
 ### Informasi Umum
-* Lokasi : Fix
-* ....
 
+* Tanggal & Waktu : 17 Desember 2018 Jam 08:30 WITA (Fix)
+* Pemilihan Lokasi : Melisa Bekery, Lantai 2 (Fix)
+
+
+### Perlengkapan
+* Proyektor : (None)
+* Microphone : (None)
+* Sound : (None)
+* Meja dan Kursi Speaker & Moderator : (None)
+* 
+
+### Sponsor
+* Biznet GioCloud
+* Bima jaya
+
+
+### Doorprize
+* T-Shirt : Pico
+
+
+### Konsumsi
+* Anggaran Belanja : (None)
+* 
 
 ### Tech Talk di Jadwalkan
 Detail Progress di :
