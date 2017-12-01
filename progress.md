@@ -6,20 +6,22 @@
 * Pemilihan Lokasi : Melisa Bekery, Lantai 2 (Fix)
 
 
+### Sponsor
+* Biznet GioCloud (Fix)
+* Bima jaya (Fix)
+
+
 ### Perlengkapan
 * Proyektor : (None)
-* Microphone : (None)
-* Sound : (None)
-* Meja dan Kursi Speaker & Moderator : (None)
-* 
-
-### Sponsor
-* Biznet GioCloud
-* Bima jaya
+* Microphone : Venue (Fix)
+* Sound : Venue (Fix)
+* Meja dan Kursi Speaker & Moderator : Venue (Fix)
+* Meja dan Kursi Penonton : Venue (Fix)
 
 
 ### Doorprize
 * T-Shirt : Pico
+* ....
 
 
 ### Konsumsi
