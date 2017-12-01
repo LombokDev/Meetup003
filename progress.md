@@ -38,3 +38,6 @@ https://github.com/LombokDevMeetup/Talks-Proposal/projects/1
 * Tech Talk Game Development "Get Started & How To"
 * Tech Talk GIS with ReactJs
 
+### Pemberitaan
+* Digital Marketing (Fix)
+* Lombok Post (None)
