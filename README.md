@@ -1,15 +1,21 @@
 
 
-<center>
-[<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="500px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud">](https://www.biznetgio.com/)
-</center>
+<p style="text-align:center">
+<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="500px">]
+</p>
+
 <br/>
 <center>Sponsored By</center>
 <br/>
-<center>
-[<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="250px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud">](https://www.biznetgio.com/) 
-[<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="250px" title="Bima Jaya" alt="Bima Jaya">](https://bimajaya.co.id/)
-</center>
+<p style="text-align:center">
+    <a href="https://www.biznetgio.com/">
+        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="250px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
+    </a>
+
+    <a href="https://bimajaya.co.id/">
+        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="250px" title="Bima Jaya" alt="Bima Jaya">
+    </a>
+</p>
 
 # Lombok Dev MeetUp #3
 ## Latar Belakang
