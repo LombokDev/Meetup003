@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="233px">
+<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/logoblack.png" width="233px">
 </p>
 
 <br/>
