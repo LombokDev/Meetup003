@@ -2,13 +2,13 @@
 [_Tech Talk_](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
 
 ## Lokasi Acara
-Acara akan dilaksanakan di Melissa Bakery. [Map ke lokasi acara](https://goo.gl/maps/QME31GfT4Xt)
+Acara akan dilaksanakan di Soetjipto Coffee and Resto . [Map ke lokasi acara](https://goo.gl/maps/r4RmKCS7kCT2)
 
 ## Tanggal Acara
 17 Desember 2017
 
 ## Form Registrasi Peserta
-Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI PESERTA](https://goo.gl/forms/8MT5MJulKVxJihdB3)
+Untuk bisa mengikuti acara silahkan isi form pada link berikut [FORM REGISTRASI PESERTA TELAH DITUTUP](https://goo.gl/forms/8MT5MJulKVxJihdB3)
 
 ## Susunan acara
 | WAKTU          | PEMBICARA           | AGENDA                                                                                                      |
