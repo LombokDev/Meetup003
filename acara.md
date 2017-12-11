@@ -2,7 +2,7 @@
 [_Tech Talk_](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
 
 ## Lokasi Acara
-Acara akan dilaksanakan di Kafe Sucipto . [Map ke lokasi acara](https://goo.gl/maps/r4RmKCS7kCT2)
+Acara akan dilaksanakan di Soetjipto Coffee and Resto . [Map ke lokasi acara](https://goo.gl/maps/r4RmKCS7kCT2)
 
 ## Tanggal Acara
 17 Desember 2017
