@@ -2,7 +2,7 @@
 [_Tech Talk_](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
 
 ## Lokasi Acara
-Acara akan dilaksanakan di Melissa Bakery. [Map ke lokasi acara](https://goo.gl/maps/QME31GfT4Xt)
+Acara akan dilaksanakan di kafe sucipto. [Map ke lokasi acara](https://goo.gl/maps/QME31GfT4Xt)
 
 ## Tanggal Acara
 17 Desember 2017
