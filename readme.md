@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/meetup.png" width="233px">
+<img src="https://github.com/LombokDev/Meetup003/blob/master/docs/img/logoblack.png" width="233px">
 </p>
 
 <br/>
@@ -10,10 +10,10 @@
 
 <p align="center">
     <a href="https://www.biznetgio.com/">
-        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/biznet.png" width="144px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
+        <img src="https://github.com/LombokDev/Meetup003/blob/master/assets/img/biznet.png" width="144px" title="Biznet Gio Cloud" alt="Biznet Gio Cloud"/>
     </a>
     <a href="https://bimajaya.co.id/">
-        <img src="https://github.com/LombokDevMeetup/Lombok-Dev-Meetup-003/blob/master/assets/img/bimajaya.png" width="144px" title="Bima Jaya" alt="Bima Jaya">
+        <img src="https://github.com/LombokDev/Meetup003/blob/master/assets/img/bimajaya.png" width="144px" title="Bima Jaya" alt="Bima Jaya">
     </a>
 </p>
 <br/><br/>
@@ -41,5 +41,5 @@ Berangkat dari antusiasme peserta pada Lombok Dev Meetup pertama dan kedua terse
 ### Target Peserta
 Peserta yang diharapkan pada kegiatan ini adalah pelajar, mahasiswa, Developer, System/Network Enginer, Programer, Sysadmin dan profesi lainnya yang memiliki minat terhadap IT.
 
-[Lombok Dev Meetup #3](https://lombokdevmeetup.github.io/Lombok-Dev-Meetup-003/)
+[Lombok Dev Meetup #3](https://lombokdevmeetup.github.io/Meetup003/)
 
