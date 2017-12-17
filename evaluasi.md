@@ -31,6 +31,7 @@ Jumlah peserta LDM#3 adalah 100 peserta. Dengan rincian:
  - Nama komunitas ini adalah **Lombok Dev**
  - Pengurus inti akan memiliki grup khusus sebagai sarana komunikasi
  - Lombok Dev akan memiliki rekening khusus 
+ - Lombok Dev harus memiliki logo baku
  
    
    ---
