@@ -41,5 +41,5 @@ Berangkat dari antusiasme peserta pada Lombok Dev Meetup pertama dan kedua terse
 ### Target Peserta
 Peserta yang diharapkan pada kegiatan ini adalah pelajar, mahasiswa, Developer, System/Network Enginer, Programer, Sysadmin dan profesi lainnya yang memiliki minat terhadap IT.
 
-[Lombok Dev Meetup #3](https://lombokdevmeetup.github.io/Meetup003/)
+[Lombok Dev Meetup #3](https://lombokdev.github.io/Meetup003/)
 
